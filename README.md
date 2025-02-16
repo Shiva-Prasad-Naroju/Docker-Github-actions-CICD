@@ -1,0 +1,1 @@
+## This repository is having the basic project that implements a app deployment into Dockerhub created using Flask, and then done the Continuous Integration and Continuous Deployment using Github Actions.
